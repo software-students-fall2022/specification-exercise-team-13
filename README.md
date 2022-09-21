@@ -11,7 +11,19 @@ A little exercise to get started with the specification phase of the software de
 - [Hillary Davis]()
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder Name
+
+#### Needs
+- Need 1
+- Need 2
+- Need 3
+- Need 4
+
+#### Problems
+- Problem 1
+- Problem 2
+- Problem 3
+- Problem 4
 
 ## Product Vision Statement
 
@@ -19,8 +31,27 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
+- As a [type of user], I want [some goal] so that [some reason]
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### User Scenario 1
+As a [type of user], I want [some goal] so that [some reason]
+
+[UML Diagram]
+
+### User Scenario 2
+As a [type of user], I want [some goal] so that [some reason]
+
+[UML Diagram]
+
+## Prototype
+View our prototype [here]().
