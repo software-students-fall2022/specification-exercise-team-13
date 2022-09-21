@@ -5,10 +5,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-- [Harvey Dong] ()
-- [Sneheel Sarangi] ()
-- [Grace Zhang] (https://github.com/gracezhang89)
-- [Hillary Davis] ()
+- [Harvey Dong]()
+- [Sneheel Sarangi]()
+- [Grace Zhang](https://github.com/gracezhang89)
+- [Hillary Davis]()
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
