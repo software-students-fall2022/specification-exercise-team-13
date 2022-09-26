@@ -8,7 +8,7 @@ A little exercise to get started with the specification phase of the software de
 - [Harvey Dong]()
 - [Sneheel Sarangi](https://github.com/Xarangi)
 - [Grace Zhang](https://github.com/gracezhang89)
-- [Hillary Davis]()
+- [Hillary Davis](https://github.com/hillarydavis1)
 ## Stakeholders
 
 ### Stakeholder Name
