@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Harvey Dong]()
-- [Sneheel Sarangi]()
+- [Sneheel Sarangi](https://github.com/Xarangi)
 - [Grace Zhang](https://github.com/gracezhang89)
 - [Hillary Davis]()
 ## Stakeholders
