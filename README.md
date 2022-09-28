@@ -14,16 +14,16 @@ A little exercise to get started with the specification phase of the software de
 ### Stakeholder Name
 
 #### Needs
-- Need 1
-- Need 2
-- Need 3
-- Need 4
+- Students value high professor ratings.
+- Students consider the time of course when making a scheduling decision.
+- Graduation requirements need to be highlighted better.
+- Students want to understand what a course really teaches, and how it is structured before enrolling.
 
 #### Problems
-- Problem 1
-- Problem 2
-- Problem 3
-- Problem 4
+- The interface of the registration system is confusing.
+- Course selection is confusing/ tedious and over complicated.
+- The registration time slot is inconvenient and difficult to remember.
+- Course description is not very descriptive and useful in determining if the course is something they would like to take.
 
 ## Product Vision Statement
 
