@@ -33,8 +33,8 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 
 - As an NYU student unaware of my degree requirements, I want to ensure I am taking the necessary classes so that I can graduate on time.
 - As an NYU student aware of my degree requirements, I want to check that I am taking the necessary pre-requisite classes so that I may take the degree classes I need.
-- As a NYU student interested in classes outside of my degree framework, I want to see if I have space in my schedule so that I can explore additional fields.
-- As a [type of user], I want [some goal] so that [some reason]
+- As an NYU student interested in classes outside of my degree framework, I want to see if I have space in my schedule so that I can explore additional fields.
+- As an NYU student reconsidering my major, I want to see what classes I would need to take so that I can switch my major.
 - As a [type of user], I want [some goal] so that [some reason]
 - As a [type of user], I want [some goal] so that [some reason]
 - As a [type of user], I want [some goal] so that [some reason]
