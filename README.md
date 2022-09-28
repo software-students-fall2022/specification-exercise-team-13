@@ -31,7 +31,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-- As a [type of user], I want [some goal] so that [some reason]
+- As an NYU student unaware of my degree requirements, I want to ensure I am taking the necessary classes so that I can graduate on time.
+- As an NYU student aware of my degree requirements, I want to check that I am taking the necessary pre-requisite classes so that I may take the degree classes I need.
 - As a [type of user], I want [some goal] so that [some reason]
 - As a [type of user], I want [some goal] so that [some reason]
 - As a [type of user], I want [some goal] so that [some reason]
