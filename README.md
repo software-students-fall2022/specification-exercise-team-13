@@ -27,7 +27,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Build an app to clearly outline your academic path and options for fulfilling your degree as an NYU student.
 
 ## User Requirements
 
