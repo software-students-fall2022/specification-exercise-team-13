@@ -32,11 +32,9 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 ## User Requirements
 
 - As an NYU student unaware of my degree requirements, I want to ensure I am taking the necessary classes so that I can graduate on time.
-![UML Diagram for User Story #1](/uml_diagram1.png)
 - As an NYU student aware of my degree requirements, I want to check that I am taking the necessary pre-requisite classes so that I may take the degree classes I need.
 - As an NYU student interested in classes outside of my degree framework, I want to see if I have space in my schedule so that I can explore additional fields.
 - As an NYU student reconsidering my major, I want to see what classes I would need to take so that I can switch my major.
-![UML Diagram for User Story #4](/uml_diagram2.png)
 - As an NYU student uninterested in any optional courses required in my degree completion, I want to see if there are any substitutions I can make so that I can select a different course and fulfill my degree requirements.
 - As an NYU student unsure of what a course entails, I want to get a better understanding of the course details so that I can better prepare myself, and decide when and with whom to take the course.
 - As a [type of user], I want [some goal] so that [some reason]
@@ -47,14 +45,14 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 ## Activity Diagrams
 
 ### User Scenario 1
-As a [type of user], I want [some goal] so that [some reason]
+As an NYU student unaware of my degree requirements, I want to ensure I am taking the necessary classes so that I can graduate on time.
 
-[UML Diagram]
+![UML Diagram for User Story #1](/uml_diagram1.png)
 
 ### User Scenario 2
-As a [type of user], I want [some goal] so that [some reason]
+As an NYU student reconsidering my major, I want to see what classes I would need to take so that I can switch my major.
 
-[UML Diagram]
+![UML Diagram for User Story #4](/uml_diagram2.png)
 
 ## Prototype
 View our prototype [here]().
