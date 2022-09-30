@@ -51,9 +51,9 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 - As an NYU student reconsidering my major, I want to see what classes I would need to take so that I can switch my major.
 - As an NYU student uninterested in any optional courses required in my degree completion, I want to see if there are any substitutions I can make so that I can select a different course and fulfill my degree requirements.
 - As an NYU student unsure of what a course entails, I want to get a better understanding of the course details so that I can better prepare myself, and decide when and with whom to take the course.
-- As an NYU student trying to schedule class at proper times, I want an easire way to asses class times so that I can plan my course schedule better.
-- As an NYU student frustrated by the Albert system, I want an easier way to view available courses so that I can find classes I need, and am interested easirer.
-- As an NYU student unsure of prerequsite requirements, I want to see what courses I have to take so that I fulfill prerquisites for other classes.
+- As an NYU student trying to schedule classes at proper times, I want an easier way to assess class times so that I can plan my course schedules better.
+- As an NYU student frustrated by the Albert system, I want an easier way to view available courses so that I can find classes I need, and am interested easier.
+- As an NYU student unsure of prerequsite requirements, I want to see what courses I have to take so that I fulfill prerequisites for other classes.
 - As an NYU student deciding between multiple majors, I want to view the degree path for all of them so that I can decide which to take, or if pursuing another major is possible.
 ## Activity Diagrams
 
