@@ -53,9 +53,8 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 - As an NYU student unsure of what a course entails, I want to get a better understanding of the course details so that I can better prepare myself, and decide when and with whom to take the course.
 - As an NYU student trying to schedule class at proper times, I want an easire way to asses class times so that I can plan my course schedule better.
 - As an NYU student frustrated by the Albert system, I want an easier way to view available courses so that I can find classes I need, and am interested easirer.
-- As a [type of user], I want [some goal] so that [some reason]
-- As a [type of user], I want [some goal] so that [some reason]
-- As a [type of user], I want [some goal] so that [some reason]
+- As an NYU student unsure of prerequsite requirements, I want to see what courses I have to take so that I fulfill prerquisites for other classes.
+- As an NYU student deciding between multiple majors, I want to view the degree path for all of them so that I can decide which to take, or if pursuing another major is possible.
 ## Activity Diagrams
 
 ### User Scenario 1
