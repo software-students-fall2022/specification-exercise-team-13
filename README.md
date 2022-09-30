@@ -11,7 +11,21 @@ A little exercise to get started with the specification phase of the software de
 - [Hillary Davis](https://github.com/hillarydavis1)
 ## Stakeholders
 
-### Stakeholder Name
+### App Owner
+
+#### Needs
+-
+-
+-
+-
+
+#### Problems
+-
+-
+-
+-
+
+### End Users
 
 #### Needs
 - Students value high professor ratings.
