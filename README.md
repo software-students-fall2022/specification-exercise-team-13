@@ -12,6 +12,7 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 ### App Owner
+Information consolidated from interviews with two NYU students.
 
 #### Needs
 - A measure of success calculated by surveying students utilizing the app and its helpfulness in their matriculation.
@@ -26,6 +27,7 @@ A little exercise to get started with the specification phase of the software de
 - Many students have similar complaints about the registration system and its navigation. This is a clear problem for an untapped market.
 
 ### End Users
+Information consolidated from interviews with five NYU students.
 
 #### Needs
 - Students value high professor ratings.
