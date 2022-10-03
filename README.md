@@ -69,5 +69,12 @@ As an NYU student reconsidering my major, I want to see what classes I would nee
 
 ![UML Diagram for User Story #4](/uml_diagram2.png)
 
+## Wireframes
+Below are wireframes for all screens of our prototype.
+
+<img width="896" alt="Screen Shot 2022-10-03 at 12 37 20 PM" src="https://user-images.githubusercontent.com/106407463/193632207-25c14054-a84d-4b4c-a8e1-85b7adbd3e02.png">
+<img width="900" alt="Screen Shot 2022-10-03 at 12 38 06 PM" src="https://user-images.githubusercontent.com/106407463/193632253-f732a1c8-3198-4c01-a15a-6338ed95f9cd.png">
+
+
 ## Prototype
 View our prototype [here](https://www.figma.com/proto/U7T9zuoAW314vtjRXiTToX/SWE-Project-1?page-id=0%3A1&node-id=0%3A1&viewport=220%2C-192%2C0.14&scaling=scale-down&starting-point-node-id=41%3A86).
