@@ -68,4 +68,4 @@ As an NYU student reconsidering my major, I want to see what classes I would nee
 ![UML Diagram for User Story #4](/uml_diagram2.png)
 
 ## Prototype
-View our prototype [here]().
+View our prototype [here](https://www.figma.com/proto/U7T9zuoAW314vtjRXiTToX/SWE-Project-1?page-id=0%3A1&node-id=0%3A1&viewport=220%2C-192%2C0.14&scaling=scale-down&starting-point-node-id=41%3A86).
