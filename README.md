@@ -12,7 +12,7 @@ A little exercise to get started with the specification phase of the software de
 ## Stakeholders
 
 ### App Owner
-Information consolidated from interviews with two NYU students.
+Information consolidated from interviews with three NYU students.
 
 #### Needs
 - A measure of success calculated by surveying students utilizing the app and its helpfulness in their matriculation.
@@ -41,6 +41,8 @@ Information consolidated from interviews with five NYU students.
 - The registration time slot is inconvenient and difficult to remember.
 - Course description is not very descriptive and useful in determining if the course is something they would like to take.
 
+Note: Notes from stakeholder and end-user interviews can be viewed [here](https://docs.google.com/document/d/1wLsFiRAI_vti2CSlshvYmcWbt_VgjmcWuIxoFmcP5hQ/edit)
+
 ## Product Vision Statement
 
 Build an app to clearly outline your academic path and options for fulfilling your degree as an NYU student.
@@ -57,6 +59,7 @@ Build an app to clearly outline your academic path and options for fulfilling yo
 - As an NYU student frustrated by the Albert system, I want an easier way to view available courses so that I can find classes I need, and am interested easier.
 - As an NYU student unsure of prerequsite requirements, I want to see what courses I have to take so that I fulfill prerequisites for other classes.
 - As an NYU student deciding between multiple majors, I want to view the degree path for all of them so that I can decide which to take, or if pursuing another major is possible.
+
 ## Activity Diagrams
 
 ### User Scenario 1
