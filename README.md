@@ -14,16 +14,16 @@ A little exercise to get started with the specification phase of the software de
 ### App Owner
 
 #### Needs
-- A measure of success calculated by surveying students utilizing the app, and its helpfulness in their matriculation.
-- A consolidated place for professor/class ratings, class options and degree progress.
+- A measure of success calculated by surveying students utilizing the app and its helpfulness in their matriculation.
+- A consolidated place for professor or class ratings, class options, and degree progress.
 - A means to compare course options to one another.
 - A clear picture of different hurdles that might prevent someone from registering for a class (such as seasonality of a course or pre-requisites).
 
 #### Problems
-- Finds the current set up of course registration difficult to navigate.
-- Finds degree guidelines and options are not hishlighted enough.
-- Finds information regarding course options to be vague.
-- Finds that many students also face difficulties, and have similar complaints with the registration system and its navigaiton.
+- Difficulty navigating the current set up of course registration.
+- Degree guidelines and possible paths are not highlighted enough to the average student.
+- Information regarding course options are typically vague.
+- Many students have similar complaints about the registration system and its navigation. This is a clear problem for an untapped market.
 
 ### End Users
 
